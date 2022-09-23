@@ -10,14 +10,10 @@ Nessa aplicação é mostrado os jogos que estão disponíveis e a quantidade de
 
 ## Tecnologias
 
----
-
 - ReactJS
 - Tailwind
 
 ## Como rodar a aplicação
-
----
 
 Com o projeto já disponível em sua máquina basta rodar o comando:
 
