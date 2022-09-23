@@ -10,7 +10,7 @@ Nessa aplicação é mostrado os jogos que estão disponíveis e a quantidade de
 
 ## Tecnologias
 
-- ReactJS
+- ReactJS com Typescript
 - Tailwind
 
 ## Como rodar a aplicação
