@@ -8,7 +8,16 @@ Nessa aplicação é mostrado os jogos que estão disponíveis e a quantidade de
 
 - OBS: A aplicação ainda não está em produção, por isso, só pode ser utilizada localmente. Sendo necessário um backend próprio, que está disponível [nesse repositório](https://github.com/OJailson17/nlw-esports-backend).
 
-## **Como rodar a aplicação**
+## Tecnologias
+
+---
+
+- ReactJS
+- Tailwind
+
+## Como rodar a aplicação
+
+---
 
 Com o projeto já disponível em sua máquina basta rodar o comando:
 
